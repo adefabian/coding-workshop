@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <springProfile name="!default">
+        <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+            <file>/var/log/containers/logfile.log</file>
+            <rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
+                <fileNamePattern>logfile.%i.log</fileNamePattern>
+                <minIndex>1</minIndex>
+                <maxIndex>2</maxIndex>
+            </rollingPolicy>
+            <triggeringPolicy class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
+                <maxFileSize>5MB</maxFileSize>
+            </triggeringPolicy>
+            <append>true</append>
+            <encoder>
+                <pattern>%level [Request: User-ID: %X{userId}, market: %X{market}, model: %X{modelCode}, options: %X{selectedFeatures}] %logger{36}.%M - %msg%n
+                </pattern>
+            </encoder>
+        </appender>
+    </springProfile>
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>
+                %d{dd-MM-yyyy HH:mm:ss.SSS} %magenta([%thread]) %highlight(%-5level) [Request: User-ID: %X{userId}, market: %X{market}, model: %X{modelCode}, options: %X{selectedFeatures}] %logger{36}.%M - %msg%n
+            </pattern>
+        </encoder>
+    </appender>
+
+
+    <root level="info">
+        <appender-ref ref="STDOUT"/>
+
+        <springProfile name="!default">
+            <appender-ref ref="FILE"/>
+        </springProfile>
+    </root>
+    <!--
+    <logger name="reactor.netty.http.client" level="debug" additivity="false">
+        <appender-ref ref="STDOUT" />
+    </logger>
+    -->
+</configuration>

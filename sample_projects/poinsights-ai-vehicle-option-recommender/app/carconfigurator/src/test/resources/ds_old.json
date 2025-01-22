@@ -1,0 +1,3154 @@
+[
+  {
+    "vehicleName": "718 Boxster",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P07': 2}",
+    "wheelOptionsRanked": "{'395': 0, '396': 1, '398': 2, '397': 3, '433': 4, '427': 5, 'XRD': 6, '439': 7}",
+    "market": "PCGB",
+    "vehicleCode": "982320"
+  },
+  {
+    "vehicleName": "718 Boxster GTS 4.0",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'393': 0, 'XRD': 1, '439': 2}",
+    "market": "PCGB",
+    "vehicleCode": "982360"
+  },
+  {
+    "vehicleName": "718 Boxster S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P07': 2}",
+    "wheelOptionsRanked": "{'397': 0, '398': 1, '433': 2, '427': 3, 'XRD': 4, '439': 5}",
+    "market": "PCGB",
+    "vehicleCode": "982330"
+  },
+  {
+    "vehicleName": "718 Boxster T",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'433': 0, 'XRD': 1}",
+    "market": "PCGB",
+    "vehicleCode": "982350"
+  },
+  {
+    "vehicleName": "718 Cayman",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P07': 2}",
+    "wheelOptionsRanked": "{'396': 0, '395': 1, '398': 2, '397': 3, '433': 4, '427': 5, 'XRD': 6, '439': 7}",
+    "market": "PCGB",
+    "vehicleCode": "982120"
+  },
+  {
+    "vehicleName": "718 Cayman GT4",
+    "audioOptionsRanked": "{'9VL': 0}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'424': 0}",
+    "market": "PCGB",
+    "vehicleCode": "982810"
+  },
+  {
+    "vehicleName": "718 Cayman GTS 4.0",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'393': 0, 'XRD': 1, '439': 2}",
+    "market": "PCGB",
+    "vehicleCode": "982160"
+  },
+  {
+    "vehicleName": "718 Cayman S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P07': 2}",
+    "wheelOptionsRanked": "{'398': 0, '397': 1, '433': 2, '427': 3, 'XRD': 4, '439': 5}",
+    "market": "PCGB",
+    "vehicleCode": "982130"
+  },
+  {
+    "vehicleName": "718 Cayman T",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'433': 0, 'XRD': 1}",
+    "market": "PCGB",
+    "vehicleCode": "982150"
+  },
+  {
+    "vehicleName": "718 Spyder",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'424': 0}",
+    "market": "PCGB",
+    "vehicleCode": "982510"
+  },
+  {
+    "vehicleName": "911 Carrera",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCGB",
+    "vehicleCode": "992110"
+  },
+  {
+    "vehicleName": "911 Carrera 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCGB",
+    "vehicleCode": "992410"
+  },
+  {
+    "vehicleName": "911 Carrera 4 Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCGB",
+    "vehicleCode": "992610"
+  },
+  {
+    "vehicleName": "911 Carrera 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCGB",
+    "vehicleCode": "992420"
+  },
+  {
+    "vehicleName": "911 Carrera 4S Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCGB",
+    "vehicleCode": "992620"
+  },
+  {
+    "vehicleName": "911 Carrera Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCGB",
+    "vehicleCode": "992310"
+  },
+  {
+    "vehicleName": "911 Carrera S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCGB",
+    "vehicleCode": "992120"
+  },
+  {
+    "vehicleName": "911 Carrera S Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCGB",
+    "vehicleCode": "992320"
+  },
+  {
+    "vehicleName": "911 Targa 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCGB",
+    "vehicleCode": "992510"
+  },
+  {
+    "vehicleName": "911 Targa 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCGB",
+    "vehicleCode": "992520"
+  },
+  {
+    "vehicleName": "911 Targa 4S Heritage Design Edition",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q4Q': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'46M': 0}",
+    "market": "PCGB",
+    "vehicleCode": "992560"
+  },
+  {
+    "vehicleName": "911 Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46N': 0, '46P': 1, '40U': 2, '46U': 3}",
+    "market": "PCGB",
+    "vehicleCode": "992430"
+  },
+  {
+    "vehicleName": "911 Turbo Cabriolet",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46N': 0, '46P': 1, '40U': 2, '46U': 3}",
+    "market": "PCGB",
+    "vehicleCode": "992630"
+  },
+  {
+    "vehicleName": "911 Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'40U': 0, '46N': 1, '46P': 2, '46U': 3}",
+    "market": "PCGB",
+    "vehicleCode": "992450"
+  },
+  {
+    "vehicleName": "911 Turbo S Cabriolet",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'40U': 0, '46N': 1, '46P': 2, '46U': 3}",
+    "market": "PCGB",
+    "vehicleCode": "992650"
+  },
+  {
+    "vehicleName": "Cayenne",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43B': 0, '43C': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCGB",
+    "vehicleCode": "9YAAA1"
+  },
+  {
+    "vehicleName": "Cayenne Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43E': 0, '44J': 1, '43D': 2, '43F': 3, '43H': 4, '42K': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCGB",
+    "vehicleCode": "9YBAA1"
+  },
+  {
+    "vehicleName": "Cayenne E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43B': 0, '43C': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48M': 7, '48X': 8, '46S': 9, '43I': 10, '43J': 11, '43Q': 12, '43R': 13, '48Y': 14, '49A': 15, '48Z': 16, '49B': 17}",
+    "market": "PCGB",
+    "vehicleCode": "9YAAE1"
+  },
+  {
+    "vehicleName": "Cayenne E-Hybrid Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43E': 0, '44J': 1, '43D': 2, '43F': 3, '43H': 4, '42K': 5, '48M': 6, '43Y': 7, '48X': 8, '46S': 9, '43I': 10, '43J': 11, '43Q': 12, '43R': 13, '48Y': 14, '49A': 15, '48Z': 16, '49B': 17}",
+    "market": "PCGB",
+    "vehicleCode": "9YBAE1"
+  },
+  {
+    "vehicleName": "Cayenne GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'48L': 0, '43F': 1, '42K': 2, '43H': 3, '48X': 4, '46S': 5, '43I': 6, '43J': 7, '43Q': 8, '43R': 9, '48Y': 10, '49A': 11, '48Z': 12, '49B': 13}",
+    "market": "PCGB",
+    "vehicleCode": "9YABG1"
+  },
+  {
+    "vehicleName": "Cayenne GTS Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'48L': 0, '44J': 1, '43F': 2, '42K': 3, '43H': 4, '43Y': 5, '48X': 6, '46S': 7, '43I': 8, '43J': 9, '43Q': 10, '43R': 11, '48Y': 12, '49A': 13, '48Z': 14, '49B': 15}",
+    "market": "PCGB",
+    "vehicleCode": "9YBBG1"
+  },
+  {
+    "vehicleName": "Cayenne S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43C': 0, '43B': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCGB",
+    "vehicleCode": "9YABB1"
+  },
+  {
+    "vehicleName": "Cayenne S Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43D': 0, '44J': 1, '43E': 2, '43F': 3, '43H': 4, '42K': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCGB",
+    "vehicleCode": "9YBBB1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43G': 0, '43F': 1, '43H': 2, '42K': 3, '48X': 4, '46S': 5, '43I': 6, '43J': 7, '43Q': 8, '43R': 9, '48Y': 10, '49A': 11, '48Z': 12, '49B': 13}",
+    "market": "PCGB",
+    "vehicleCode": "9YACF1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo Coupé",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43G': 0, '44J': 1, '43F': 2, '43H': 3, '42K': 4, '43Y': 5, '48X': 6, '46S': 7, '43I': 8, '43J': 9, '43Q': 10, '43R': 11, '48Y': 12, '49A': 13, '48Z': 14, '49B': 15}",
+    "market": "PCGB",
+    "vehicleCode": "9YBCF1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo S E-Hybrid",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'48M': 0, '43F': 1, '43G': 2, '42K': 3, '43H': 4, '48X': 5, '46S': 6, '43I': 7, '43J': 8, '43Q': 9, '43R': 10, '48Y': 11, '49A': 12, '48Z': 13, '49B': 14}",
+    "market": "PCGB",
+    "vehicleCode": "9YACH1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo S E-Hybrid Coupé",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'48M': 0, '44J': 1, '43F': 2, '43G': 3, '42K': 4, '43H': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCGB",
+    "vehicleCode": "9YBCH1"
+  },
+  {
+    "vehicleName": "Macan",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'C7N': 0, 'C5F': 1, '41A': 2, '41M': 3, '48T': 4, '47N': 5, '49Y': 6, '53U': 7, '53S': 8, '47Q': 9, '47P': 10, '48U': 11, '48V': 12, '48W': 13}",
+    "market": "PCGB",
+    "vehicleCode": "95BAM1"
+  },
+  {
+    "vehicleName": "Macan GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q4P': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'41L': 0, '48T': 1, '49Y': 2, '53U': 3, '47N': 4, '53S': 5, '47Q': 6, '47P': 7, '48U': 8, '48V': 9, '48W': 10}",
+    "market": "PCGB",
+    "vehicleCode": "95BBL1"
+  },
+  {
+    "vehicleName": "Macan S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'C5F': 0, 'C7N': 1, '41A': 2, '41M': 3, '48T': 4, '47N': 5, '49Y': 6, '53U': 7, '53S': 8, '47Q': 9, '47P': 10, '48U': 11, '48V': 12, '48W': 13}",
+    "market": "PCGB",
+    "vehicleCode": "95BBH1"
+  },
+  {
+    "vehicleName": "Macan Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'41A': 0, '41M': 1, '47M': 2, '48T': 3, '49Y': 4, '53U': 5, '47N': 6, '53S': 7, '47Q': 8, '47P': 9, '48U': 10, '48V': 11, '48W': 12}",
+    "market": "PCGB",
+    "vehicleCode": "95BCI1"
+  },
+  {
+    "vehicleName": "Panamera",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCGB",
+    "vehicleCode": "97AAI1"
+  },
+  {
+    "vehicleName": "Panamera 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCGB",
+    "vehicleCode": "97ABI1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCGB",
+    "vehicleCode": "97ABX1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCGB",
+    "vehicleCode": "97BBX1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCGB",
+    "vehicleCode": "97CBX1"
+  },
+  {
+    "vehicleName": "Panamera 4 Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCGB",
+    "vehicleCode": "97BBI1"
+  },
+  {
+    "vehicleName": "Panamera 4 Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCGB",
+    "vehicleCode": "97CBI1"
+  },
+  {
+    "vehicleName": "Panamera 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCGB",
+    "vehicleCode": "97ADN1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCGB",
+    "vehicleCode": "97ADZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCGB",
+    "vehicleCode": "97BDZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCGB",
+    "vehicleCode": "97CDZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCGB",
+    "vehicleCode": "97BDN1"
+  },
+  {
+    "vehicleName": "Panamera 4S Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCGB",
+    "vehicleCode": "97CDN1"
+  },
+  {
+    "vehicleName": "Panamera GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43X': 0, '44H': 1, '53K': 2, '44G': 3, '44D': 4, '44F': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '53L': 18, '54D': 19, '54F': 20, '54G': 21, '54H': 22, '53X': 23}",
+    "market": "PCGB",
+    "vehicleCode": "97ADS1"
+  },
+  {
+    "vehicleName": "Panamera GTS Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43X': 0, '44H': 1, '53K': 2, '44G': 3, '44D': 4, '44F': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '53L': 18, '54D': 19, '54F': 20, '54G': 21, '54H': 22, '53X': 23}",
+    "market": "PCGB",
+    "vehicleCode": "97CDS1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCGB",
+    "vehicleCode": "97AFR1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53L': 0, '44F': 1, '44D': 2, '54E': 3, '43S': 4, '43T': 5, '43V': 6, '43U': 7, '54I': 8, '44E': 9, '44A': 10, '44C': 11, '43W': 12, '44B': 13, '47J': 14, '54D': 15, '54F': 16, '54G': 17, '54H': 18, '53X': 19}",
+    "market": "PCGB",
+    "vehicleCode": "97AFT1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'53L': 0, '44F': 1, '44D': 2, '54E': 3, '43S': 4, '43T': 5, '43V': 6, '43U': 7, '54I': 8, '44E': 9, '44A': 10, '44C': 11, '43W': 12, '44B': 13, '47J': 14, '54D': 15, '54F': 16, '54G': 17, '54H': 18, '53X': 19}",
+    "market": "PCGB",
+    "vehicleCode": "97BFT1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53L': 0, '44F': 1, '44D': 2, '54E': 3, '43S': 4, '43T': 5, '43V': 6, '43U': 7, '54I': 8, '44E': 9, '44A': 10, '44C': 11, '43W': 12, '44B': 13, '47J': 14, '54D': 15, '54F': 16, '54G': 17, '54H': 18, '53X': 19}",
+    "market": "PCGB",
+    "vehicleCode": "97CFT1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S Executive",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCGB",
+    "vehicleCode": "97BFR1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S Sport Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCGB",
+    "vehicleCode": "97CFR1"
+  },
+  {
+    "vehicleName": "Taycan",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47F': 0, '47G': 1, '47I': 2, '47H': 3, 'F44': 4, '47L': 5, '44I': 6}",
+    "market": "PCGB",
+    "vehicleCode": "Y1AAA1"
+  },
+  {
+    "vehicleName": "Taycan 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47G': 0, '47F': 1, '47I': 2, '47H': 3, 'F44': 4, '47L': 5, '44I': 6}",
+    "market": "PCGB",
+    "vehicleCode": "Y1ADB1"
+  },
+  {
+    "vehicleName": "Taycan Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'47I': 0, '47H': 1, 'F44': 2, '47L': 3, '44I': 4}",
+    "market": "PCGB",
+    "vehicleCode": "Y1AFC1"
+  },
+  {
+    "vehicleName": "Taycan Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'F44': 0, '47L': 1, '44I': 2}",
+    "market": "PCGB",
+    "vehicleCode": "Y1AFH1"
+  },
+  {
+    "vehicleName": "Taycan 4 Cross Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47F': 0, '47G': 1, '53Z': 2, 'F53': 2, '53Y': 3, '54C': 4, '47L': 5, '44I': 6}",
+    "market": "PCGB",
+    "vehicleCode": "Y1BBD1"
+  },
+  {
+    "vehicleName": "Taycan 4S Cross Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47G': 0, '47F': 1, '53Z': 2, 'F53': 2, '53Y': 3, '54C': 4, '47L': 5, '44I': 6}",
+    "market": "PCGB",
+    "vehicleCode": "Y1BDB1"
+  },
+  {
+    "vehicleName": "Taycan Turbo Cross Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53Y': 0, '53Z': 1, 'F53': 1, '54C': 2, '47L': 3, '44I': 4}",
+    "market": "PCGB",
+    "vehicleCode": "Y1BFC1"
+  },
+  {
+    "vehicleName": "Taycan Turbo S Cross Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 0}",
+    "wheelOptionsRanked": "{'53Z': 0, '53Y': 0, 'F53': 0, '54C': 0, '47L': 1, '44I': 2}",
+    "market": "PCGB",
+    "vehicleCode": "Y1BFH1"
+  },
+  {
+    "vehicleName": "718 Boxster",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'395': 0, '396': 1, '398': 2, '397': 3, '433': 4, '427': 5, 'XRD': 6, '439': 7}",
+    "market": "PCH",
+    "vehicleCode": "982320"
+  },
+  {
+    "vehicleName": "718 Boxster GTS 4.0",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P06': 1, 'P07': 2, 'P11': 3}",
+    "wheelOptionsRanked": "{'393': 0, 'XRD': 1, '439': 2}",
+    "market": "PCH",
+    "vehicleCode": "982360"
+  },
+  {
+    "vehicleName": "718 Boxster S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'397': 0, '398': 1, '433': 2, '427': 3, 'XRD': 4, '439': 5}",
+    "market": "PCH",
+    "vehicleCode": "982330"
+  },
+  {
+    "vehicleName": "718 Boxster T",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'433': 0, 'XRD': 1}",
+    "market": "PCH",
+    "vehicleCode": "982350"
+  },
+  {
+    "vehicleName": "718 Cayman",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'396': 0, '395': 1, '398': 2, '397': 3, '433': 4, '427': 5, 'XRD': 6, '439': 7}",
+    "market": "PCH",
+    "vehicleCode": "982120"
+  },
+  {
+    "vehicleName": "718 Cayman GT4",
+    "audioOptionsRanked": "{'9VL': 0}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'424': 0}",
+    "market": "PCH",
+    "vehicleCode": "982810"
+  },
+  {
+    "vehicleName": "718 Cayman GTS 4.0",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P06': 1, 'P07': 2, 'P11': 3}",
+    "wheelOptionsRanked": "{'393': 0, 'XRD': 1, '439': 2}",
+    "market": "PCH",
+    "vehicleCode": "982160"
+  },
+  {
+    "vehicleName": "718 Cayman S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'398': 0, '397': 1, '433': 2, '427': 3, 'XRD': 4, '439': 5}",
+    "market": "PCH",
+    "vehicleCode": "982130"
+  },
+  {
+    "vehicleName": "718 Cayman T",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'433': 0, 'XRD': 1}",
+    "market": "PCH",
+    "vehicleCode": "982150"
+  },
+  {
+    "vehicleName": "718 Spyder",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'424': 0}",
+    "market": "PCH",
+    "vehicleCode": "982510"
+  },
+  {
+    "vehicleName": "911 Carrera",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCH",
+    "vehicleCode": "992110"
+  },
+  {
+    "vehicleName": "911 Carrera 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCH",
+    "vehicleCode": "992410"
+  },
+  {
+    "vehicleName": "911 Carrera 4 Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCH",
+    "vehicleCode": "992610"
+  },
+  {
+    "vehicleName": "911 Carrera 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCH",
+    "vehicleCode": "992420"
+  },
+  {
+    "vehicleName": "911 Carrera 4S Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCH",
+    "vehicleCode": "992620"
+  },
+  {
+    "vehicleName": "911 Carrera Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCH",
+    "vehicleCode": "992310"
+  },
+  {
+    "vehicleName": "911 Carrera S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCH",
+    "vehicleCode": "992120"
+  },
+  {
+    "vehicleName": "911 Carrera S Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCH",
+    "vehicleCode": "992320"
+  },
+  {
+    "vehicleName": "911 Targa 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCH",
+    "vehicleCode": "992510"
+  },
+  {
+    "vehicleName": "911 Targa 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCH",
+    "vehicleCode": "992520"
+  },
+  {
+    "vehicleName": "911 Targa 4S Heritage Design Edition",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q4Q': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'46M': 0}",
+    "market": "PCH",
+    "vehicleCode": "992560"
+  },
+  {
+    "vehicleName": "911 Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46N': 0, '46P': 1, '40U': 2, '46U': 3}",
+    "market": "PCH",
+    "vehicleCode": "992430"
+  },
+  {
+    "vehicleName": "911 Turbo Cabriolet",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46N': 0, '46P': 1, '40U': 2, '46U': 3}",
+    "market": "PCH",
+    "vehicleCode": "992630"
+  },
+  {
+    "vehicleName": "911 Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'40U': 0, '46N': 1, '46P': 2, '46U': 3}",
+    "market": "PCH",
+    "vehicleCode": "992450"
+  },
+  {
+    "vehicleName": "911 Turbo S Cabriolet",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'40U': 0, '46N': 1, '46P': 2, '46U': 3}",
+    "market": "PCH",
+    "vehicleCode": "992650"
+  },
+  {
+    "vehicleName": "Cayenne",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43B': 0, '43C': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCH",
+    "vehicleCode": "9YAAA1"
+  },
+  {
+    "vehicleName": "Cayenne Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43E': 0, '44J': 1, '43D': 2, '43F': 3, '43H': 4, '42K': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCH",
+    "vehicleCode": "9YBAA1"
+  },
+  {
+    "vehicleName": "Cayenne E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43B': 0, '43C': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48M': 7, '48X': 8, '46S': 9, '43I': 10, '43J': 11, '43Q': 12, '43R': 13, '48Y': 14, '49A': 15, '48Z': 16, '49B': 17}",
+    "market": "PCH",
+    "vehicleCode": "9YAAE1"
+  },
+  {
+    "vehicleName": "Cayenne E-Hybrid Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43E': 0, '44J': 1, '43D': 2, '43F': 3, '43H': 4, '42K': 5, '48M': 6, '43Y': 7, '48X': 8, '46S': 9, '43I': 10, '43J': 11, '43Q': 12, '43R': 13, '48Y': 14, '49A': 15, '48Z': 16, '49B': 17}",
+    "market": "PCH",
+    "vehicleCode": "9YBAE1"
+  },
+  {
+    "vehicleName": "Cayenne GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'48L': 0, '43F': 1, '42K': 2, '43H': 3, '48X': 4, '46S': 5, '43I': 6, '43J': 7, '43Q': 8, '43R': 9, '48Y': 10, '49A': 11, '48Z': 12, '49B': 13}",
+    "market": "PCH",
+    "vehicleCode": "9YABG1"
+  },
+  {
+    "vehicleName": "Cayenne GTS Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'48L': 0, '44J': 1, '43F': 2, '42K': 3, '43H': 4, '43Y': 5, '48X': 6, '46S': 7, '43I': 8, '43J': 9, '43Q': 10, '43R': 11, '48Y': 12, '49A': 13, '48Z': 14, '49B': 15}",
+    "market": "PCH",
+    "vehicleCode": "9YBBG1"
+  },
+  {
+    "vehicleName": "Cayenne S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43C': 0, '43B': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCH",
+    "vehicleCode": "9YABB1"
+  },
+  {
+    "vehicleName": "Cayenne S Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43D': 0, '44J': 1, '43E': 2, '43F': 3, '43H': 4, '42K': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCH",
+    "vehicleCode": "9YBBB1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43G': 0, '43F': 1, '43H': 2, '42K': 3, '48X': 4, '46S': 5, '43I': 6, '43J': 7, '43Q': 8, '43R': 9, '48Y': 10, '49A': 11, '48Z': 12, '49B': 13}",
+    "market": "PCH",
+    "vehicleCode": "9YACF1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo Coupé",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43G': 0, '44J': 1, '43F': 2, '43H': 3, '42K': 4, '43Y': 5, '48X': 6, '46S': 7, '43I': 8, '43J': 9, '43Q': 10, '43R': 11, '48Y': 12, '49A': 13, '48Z': 14, '49B': 15}",
+    "market": "PCH",
+    "vehicleCode": "9YBCF1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo S E-Hybrid",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'48M': 0, '43F': 1, '43G': 2, '42K': 3, '43H': 4, '48X': 5, '46S': 6, '43I': 7, '43J': 8, '43Q': 9, '43R': 10, '48Y': 11, '49A': 12, '48Z': 13, '49B': 14}",
+    "market": "PCH",
+    "vehicleCode": "9YACH1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo S E-Hybrid Coupé",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'48M': 0, '44J': 1, '43F': 2, '43G': 3, '42K': 4, '43H': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCH",
+    "vehicleCode": "9YBCH1"
+  },
+  {
+    "vehicleName": "Macan",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'C7N': 0, 'C5F': 1, '41A': 2, '41M': 3, '48T': 4, '47N': 5, '49Y': 6, '53U': 7, '53S': 8, '47Q': 9, '47P': 10, '48U': 11, '48V': 12, '48W': 13}",
+    "market": "PCH",
+    "vehicleCode": "95BAM1"
+  },
+  {
+    "vehicleName": "Macan GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q4P': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'41L': 0, '48T': 1, '49Y': 2, '53U': 3, '47N': 4, '53S': 5, '47Q': 6, '47P': 7, '48U': 8, '48V': 9, '48W': 10}",
+    "market": "PCH",
+    "vehicleCode": "95BBL1"
+  },
+  {
+    "vehicleName": "Macan S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'C5F': 0, 'C7N': 1, '41A': 2, '41M': 3, '48T': 4, '47N': 5, '49Y': 6, '53U': 7, '53S': 8, '47Q': 9, '47P': 10, '48U': 11, '48V': 12, '48W': 13}",
+    "market": "PCH",
+    "vehicleCode": "95BBH1"
+  },
+  {
+    "vehicleName": "Macan Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'41A': 0, '41M': 1, '47M': 2, '48T': 3, '49Y': 4, '53U': 5, '47N': 6, '53S': 7, '47Q': 8, '47P': 9, '48U': 10, '48V': 11, '48W': 12}",
+    "market": "PCH",
+    "vehicleCode": "95BCI1"
+  },
+  {
+    "vehicleName": "Panamera",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCH",
+    "vehicleCode": "97AAI1"
+  },
+  {
+    "vehicleName": "Panamera 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCH",
+    "vehicleCode": "97ABI1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCH",
+    "vehicleCode": "97ABX1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCH",
+    "vehicleCode": "97BBX1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCH",
+    "vehicleCode": "97CBX1"
+  },
+  {
+    "vehicleName": "Panamera 4 Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCH",
+    "vehicleCode": "97BBI1"
+  },
+  {
+    "vehicleName": "Panamera 4 Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCH",
+    "vehicleCode": "97CBI1"
+  },
+  {
+    "vehicleName": "Panamera 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCH",
+    "vehicleCode": "97ADN1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCH",
+    "vehicleCode": "97ADZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCH",
+    "vehicleCode": "97BDZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCH",
+    "vehicleCode": "97CDZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCH",
+    "vehicleCode": "97BDN1"
+  },
+  {
+    "vehicleName": "Panamera 4S Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCH",
+    "vehicleCode": "97CDN1"
+  },
+  {
+    "vehicleName": "Panamera GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43X': 0, '44H': 1, '53K': 2, '44G': 3, '44D': 4, '44F': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '53L': 18, '54D': 19, '54F': 20, '54G': 21, '54H': 22, '53X': 23}",
+    "market": "PCH",
+    "vehicleCode": "97ADS1"
+  },
+  {
+    "vehicleName": "Panamera GTS Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43X': 0, '44H': 1, '53K': 2, '44G': 3, '44D': 4, '44F': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '53L': 18, '54D': 19, '54F': 20, '54G': 21, '54H': 22, '53X': 23}",
+    "market": "PCH",
+    "vehicleCode": "97CDS1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCH",
+    "vehicleCode": "97AFR1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53L': 0, '44F': 1, '44D': 2, '54E': 3, '43S': 4, '43T': 5, '43V': 6, '43U': 7, '54I': 8, '44E': 9, '44A': 10, '44C': 11, '43W': 12, '44B': 13, '47J': 14, '54D': 15, '54F': 16, '54G': 17, '54H': 18, '53X': 19}",
+    "market": "PCH",
+    "vehicleCode": "97AFT1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'53L': 0, '44F': 1, '44D': 2, '54E': 3, '43S': 4, '43T': 5, '43V': 6, '43U': 7, '54I': 8, '44E': 9, '44A': 10, '44C': 11, '43W': 12, '44B': 13, '47J': 14, '54D': 15, '54F': 16, '54G': 17, '54H': 18, '53X': 19}",
+    "market": "PCH",
+    "vehicleCode": "97BFT1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53L': 0, '44F': 1, '44D': 2, '54E': 3, '43S': 4, '43T': 5, '43V': 6, '43U': 7, '54I': 8, '44E': 9, '44A': 10, '44C': 11, '43W': 12, '44B': 13, '47J': 14, '54D': 15, '54F': 16, '54G': 17, '54H': 18, '53X': 19}",
+    "market": "PCH",
+    "vehicleCode": "97CFT1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S Executive",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCH",
+    "vehicleCode": "97BFR1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S Sport Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCH",
+    "vehicleCode": "97CFR1"
+  },
+  {
+    "vehicleName": "Taycan",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47F': 0, '47G': 1, '47I': 2, '47H': 3, 'F44': 4, '47L': 5, '44I': 6}",
+    "market": "PCH",
+    "vehicleCode": "Y1AAA1"
+  },
+  {
+    "vehicleName": "Taycan 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47G': 0, '47F': 1, '47I': 2, '47H': 3, 'F44': 4, '47L': 5, '44I': 6}",
+    "market": "PCH",
+    "vehicleCode": "Y1ADB1"
+  },
+  {
+    "vehicleName": "Taycan Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'47I': 0, '47H': 1, 'F44': 2, '47L': 3, '44I': 4}",
+    "market": "PCH",
+    "vehicleCode": "Y1AFC1"
+  },
+  {
+    "vehicleName": "Taycan Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'F44': 0, '47L': 1, '44I': 2}",
+    "market": "PCH",
+    "vehicleCode": "Y1AFH1"
+  },
+  {
+    "vehicleName": "Taycan 4 Cross Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47F': 0, '47G': 1, '53Z': 2, 'F53': 2, '53Y': 3, '54C': 4, '47L': 5, '44I': 6}",
+    "market": "PCH",
+    "vehicleCode": "Y1BBD1"
+  },
+  {
+    "vehicleName": "Taycan 4S Cross Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47G': 0, '47F': 1, '53Z': 2, 'F53': 2, '53Y': 3, '54C': 4, '47L': 5, '44I': 6}",
+    "market": "PCH",
+    "vehicleCode": "Y1BDB1"
+  },
+  {
+    "vehicleName": "Taycan Turbo Cross Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53Y': 0, '53Z': 1, 'F53': 1, '54C': 2, '47L': 3, '44I': 4}",
+    "market": "PCH",
+    "vehicleCode": "Y1BFC1"
+  },
+  {
+    "vehicleName": "Taycan Turbo S Cross Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 0}",
+    "wheelOptionsRanked": "{'53Z': 0, '53Y': 0, 'F53': 0, '54C': 0, '47L': 1, '44I': 2}",
+    "market": "PCH",
+    "vehicleCode": "Y1BFH1"
+  },
+  {
+    "vehicleName": "718 Boxster",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'395': 0, '396': 1, '398': 2, '397': 3, '433': 4, '427': 5, 'XRD': 6, '439': 7}",
+    "market": "PCNA",
+    "vehicleCode": "982320"
+  },
+  {
+    "vehicleName": "718 Boxster GTS 4.0",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P06': 1, 'P07': 2, 'P11': 3}",
+    "wheelOptionsRanked": "{'393': 0, 'XRD': 1, '439': 2}",
+    "market": "PCNA",
+    "vehicleCode": "982360"
+  },
+  {
+    "vehicleName": "718 Boxster S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'397': 0, '398': 1, '433': 2, '427': 3, 'XRD': 4, '439': 5}",
+    "market": "PCNA",
+    "vehicleCode": "982330"
+  },
+  {
+    "vehicleName": "718 Boxster T",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'433': 0, 'XRD': 1}",
+    "market": "PCNA",
+    "vehicleCode": "982350"
+  },
+  {
+    "vehicleName": "718 Cayman",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'396': 0, '395': 1, '398': 2, '397': 3, '433': 4, '427': 5, 'XRD': 6, '439': 7}",
+    "market": "PCNA",
+    "vehicleCode": "982120"
+  },
+  {
+    "vehicleName": "718 Cayman GT4",
+    "audioOptionsRanked": "{'9VL': 0}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'424': 0}",
+    "market": "PCNA",
+    "vehicleCode": "982810"
+  },
+  {
+    "vehicleName": "718 Cayman GTS 4.0",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P06': 1, 'P07': 2, 'P11': 3}",
+    "wheelOptionsRanked": "{'393': 0, 'XRD': 1, '439': 2}",
+    "market": "PCNA",
+    "vehicleCode": "982160"
+  },
+  {
+    "vehicleName": "718 Cayman S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'398': 0, '397': 1, '433': 2, '427': 3, 'XRD': 4, '439': 5}",
+    "market": "PCNA",
+    "vehicleCode": "982130"
+  },
+  {
+    "vehicleName": "718 Cayman T",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'433': 0, 'XRD': 1}",
+    "market": "PCNA",
+    "vehicleCode": "982150"
+  },
+  {
+    "vehicleName": "718 Spyder",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'424': 0}",
+    "market": "PCNA",
+    "vehicleCode": "982510"
+  },
+  {
+    "vehicleName": "911 Carrera",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCNA",
+    "vehicleCode": "992110"
+  },
+  {
+    "vehicleName": "911 Carrera 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCNA",
+    "vehicleCode": "992410"
+  },
+  {
+    "vehicleName": "911 Carrera 4 Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCNA",
+    "vehicleCode": "992610"
+  },
+  {
+    "vehicleName": "911 Carrera 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCNA",
+    "vehicleCode": "992420"
+  },
+  {
+    "vehicleName": "911 Carrera 4S Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCNA",
+    "vehicleCode": "992620"
+  },
+  {
+    "vehicleName": "911 Carrera Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCNA",
+    "vehicleCode": "992310"
+  },
+  {
+    "vehicleName": "911 Carrera S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCNA",
+    "vehicleCode": "992120"
+  },
+  {
+    "vehicleName": "911 Carrera S Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCNA",
+    "vehicleCode": "992320"
+  },
+  {
+    "vehicleName": "911 Targa 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PCNA",
+    "vehicleCode": "992510"
+  },
+  {
+    "vehicleName": "911 Targa 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PCNA",
+    "vehicleCode": "992520"
+  },
+  {
+    "vehicleName": "911 Targa 4S Heritage Design Edition",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q4Q': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'46M': 0}",
+    "market": "PCNA",
+    "vehicleCode": "992560"
+  },
+  {
+    "vehicleName": "911 Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46N': 0, '40U': 1, '46P': 2, '46U': 3}",
+    "market": "PCNA",
+    "vehicleCode": "992430"
+  },
+  {
+    "vehicleName": "911 Turbo Cabriolet",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46N': 0, '40U': 1, '46P': 2, '46U': 3}",
+    "market": "PCNA",
+    "vehicleCode": "992630"
+  },
+  {
+    "vehicleName": "911 Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'40U': 0, '46N': 1, '46P': 2, '46U': 3}",
+    "market": "PCNA",
+    "vehicleCode": "992450"
+  },
+  {
+    "vehicleName": "911 Turbo S Cabriolet",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'40U': 0, '46N': 1, '46P': 2, '46U': 3}",
+    "market": "PCNA",
+    "vehicleCode": "992650"
+  },
+  {
+    "vehicleName": "Cayenne",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43B': 0, '43C': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCNA",
+    "vehicleCode": "9YAAA1"
+  },
+  {
+    "vehicleName": "Cayenne Coupe",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43E': 0, '44J': 1, '43D': 2, '43F': 3, '43H': 4, '42K': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCNA",
+    "vehicleCode": "9YBAA1"
+  },
+  {
+    "vehicleName": "Cayenne E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43B': 0, '43C': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48M': 7, '48X': 8, '46S': 9, '43I': 10, '43J': 11, '43Q': 12, '43R': 13, '48Y': 14, '49A': 15, '48Z': 16, '49B': 17}",
+    "market": "PCNA",
+    "vehicleCode": "9YAAE1"
+  },
+  {
+    "vehicleName": "Cayenne E-Hybrid Coupe",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43E': 0, '44J': 1, '43D': 2, '43F': 3, '43H': 4, '42K': 5, '48M': 6, '43Y': 7, '48X': 8, '46S': 9, '43I': 10, '43J': 11, '43Q': 12, '43R': 13, '48Y': 14, '49A': 15, '48Z': 16, '49B': 17}",
+    "market": "PCNA",
+    "vehicleCode": "9YBAE1"
+  },
+  {
+    "vehicleName": "Cayenne GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'48L': 0, '43F': 1, '42K': 2, '43H': 3, '48X': 4, '46S': 5, '43I': 6, '43J': 7, '43Q': 8, '43R': 9, '48Y': 10, '49A': 11, '48Z': 12, '49B': 13}",
+    "market": "PCNA",
+    "vehicleCode": "9YABG1"
+  },
+  {
+    "vehicleName": "Cayenne GTS Coupe",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'48L': 0, '44J': 1, '43F': 2, '42K': 3, '43H': 4, '43Y': 5, '48X': 6, '46S': 7, '43I': 8, '43J': 9, '43Q': 10, '43R': 11, '48Y': 12, '49A': 13, '48Z': 14, '49B': 15}",
+    "market": "PCNA",
+    "vehicleCode": "9YBBG1"
+  },
+  {
+    "vehicleName": "Cayenne S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43C': 0, '43B': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCNA",
+    "vehicleCode": "9YABB1"
+  },
+  {
+    "vehicleName": "Cayenne S Coupe",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43D': 0, '43F': 1, '43E': 2, '43H': 3, '42K': 4, '43I': 5, '43J': 6, '43Q': 7, '43R': 8}",
+    "market": "PCNA",
+    "vehicleCode": "9YBBB1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43G': 0, '43F': 1, '43H': 2, '42K': 3, '48X': 4, '46S': 5, '43I': 6, '43J': 7, '43Q': 8, '43R': 9, '48Y': 10, '49A': 11, '48Z': 12, '49B': 13}",
+    "market": "PCNA",
+    "vehicleCode": "9YACF1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo Coupe",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43G': 0, '44J': 1, '43F': 2, '43H': 3, '42K': 4, '43Y': 5, '48X': 6, '46S': 7, '43I': 8, '43J': 9, '43Q': 10, '43R': 11, '48Y': 12, '49A': 13, '48Z': 14, '49B': 15}",
+    "market": "PCNA",
+    "vehicleCode": "9YBCF1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo S E-Hybrid",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'48M': 0, '43F': 1, '43G': 2, '42K': 3, '43H': 4, '48X': 5, '46S': 6, '43I': 7, '43J': 8, '43Q': 9, '43R': 10, '48Y': 11, '49A': 12, '48Z': 13, '49B': 14}",
+    "market": "PCNA",
+    "vehicleCode": "9YACH1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo S E-Hybrid Coupe",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'48M': 0, '44J': 1, '43F': 2, '43G': 3, '42K': 4, '43H': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PCNA",
+    "vehicleCode": "9YBCH1"
+  },
+  {
+    "vehicleName": "Macan",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'C7N': 0, 'C5F': 1, '41A': 2, '41M': 3, '47N': 4, '49Y': 5, '53U': 6, '53S': 7}",
+    "market": "PCNA",
+    "vehicleCode": "95BAG1"
+  },
+  {
+    "vehicleName": "Macan GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q4P': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'41L': 0, '48T': 1, '49Y': 2, '53U': 3, '47N': 4, '53S': 5, '47Q': 6, '47P': 7, '48U': 8, '48V': 9, '48W': 10}",
+    "market": "PCNA",
+    "vehicleCode": "95BBL1"
+  },
+  {
+    "vehicleName": "Macan S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'C7N': 0, 'C5F': 1, '41M': 2, '41A': 3, '48T': 4, '47N': 5, '49Y': 6, '53U': 7, '53S': 8, '47Q': 9, '47P': 10, '48U': 11, '48V': 12, '48W': 13}",
+    "market": "PCNA",
+    "vehicleCode": "95BBH1"
+  },
+  {
+    "vehicleName": "Macan Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'41A': 0, '41M': 1, '47M': 2, '48T': 3, '49Y': 4, '53U': 5, '47N': 6, '53S': 7, '47Q': 8, '47P': 9, '48U': 10, '48V': 11, '48W': 12}",
+    "market": "PCNA",
+    "vehicleCode": "95BCI1"
+  },
+  {
+    "vehicleName": "Panamera",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCNA",
+    "vehicleCode": "97AAI1"
+  },
+  {
+    "vehicleName": "Panamera 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCNA",
+    "vehicleCode": "97ABI1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCNA",
+    "vehicleCode": "97ABX1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCNA",
+    "vehicleCode": "97BBX1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCNA",
+    "vehicleCode": "97CBX1"
+  },
+  {
+    "vehicleName": "Panamera 4 Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCNA",
+    "vehicleCode": "97BBI1"
+  },
+  {
+    "vehicleName": "Panamera 4 Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCNA",
+    "vehicleCode": "97CBI1"
+  },
+  {
+    "vehicleName": "Panamera 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCNA",
+    "vehicleCode": "97ADN1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCNA",
+    "vehicleCode": "97ADZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCNA",
+    "vehicleCode": "97BDZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCNA",
+    "vehicleCode": "97CDZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCNA",
+    "vehicleCode": "97BDN1"
+  },
+  {
+    "vehicleName": "Panamera 4S Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PCNA",
+    "vehicleCode": "97CDN1"
+  },
+  {
+    "vehicleName": "Panamera GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43X': 0, '44H': 1, '53K': 2, '44G': 3, '44D': 4, '44F': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '53L': 18, '54D': 19, '54F': 20, '54G': 21, '54H': 22, '53X': 23}",
+    "market": "PCNA",
+    "vehicleCode": "97ADS1"
+  },
+  {
+    "vehicleName": "Panamera GTS Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43X': 0, '44H': 1, '53K': 2, '44G': 3, '44D': 4, '44F': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '53L': 18, '54D': 19, '54F': 20, '54G': 21, '54H': 22, '53X': 23}",
+    "market": "PCNA",
+    "vehicleCode": "97CDS1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCNA",
+    "vehicleCode": "97AFR1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCNA",
+    "vehicleCode": "97AFT1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCNA",
+    "vehicleCode": "97BFT1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCNA",
+    "vehicleCode": "97CFT1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S Executive",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCNA",
+    "vehicleCode": "97BFR1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S Sport Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PCNA",
+    "vehicleCode": "97CFR1"
+  },
+  {
+    "vehicleName": "Taycan",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47F': 0, '47G': 1, '47I': 2, '47H': 3, 'F44': 4, '47L': 5, '44I': 6}",
+    "market": "PCNA",
+    "vehicleCode": "Y1AAA1"
+  },
+  {
+    "vehicleName": "Taycan 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47G': 0, '47F': 1, '47I': 2, '47H': 3, 'F44': 4, '47L': 5, '44I': 6}",
+    "market": "PCNA",
+    "vehicleCode": "Y1ADB1"
+  },
+  {
+    "vehicleName": "Taycan Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'47I': 0, '47H': 1, 'F44': 2, '47L': 3, '44I': 4}",
+    "market": "PCNA",
+    "vehicleCode": "Y1AFC1"
+  },
+  {
+    "vehicleName": "Taycan Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'F44': 0, '47L': 1, '44I': 2}",
+    "market": "PCNA",
+    "vehicleCode": "Y1AFH1"
+  },
+  {
+    "vehicleName": "Taycan 4 Cross Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47F': 0, '47G': 1, '53Z': 2, 'F53': 2, '53Y': 3, '54C': 4, '47L': 5, '44I': 6}",
+    "market": "PCNA",
+    "vehicleCode": "Y1BBD1"
+  },
+  {
+    "vehicleName": "Taycan 4S Cross Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47G': 0, '47F': 1, '53Z': 2, 'F53': 2, '53Y': 3, '54C': 4, '47L': 5, '44I': 6}",
+    "market": "PCNA",
+    "vehicleCode": "Y1BDB1"
+  },
+  {
+    "vehicleName": "Taycan Turbo Cross Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 0}",
+    "wheelOptionsRanked": "{'53Y': 0, '53Z': 1, 'F53': 1, '54C': 2, '47L': 3, '44I': 4}",
+    "market": "PCNA",
+    "vehicleCode": "Y1BFC1"
+  },
+  {
+    "vehicleName": "Taycan Turbo S Cross Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 0}",
+    "wheelOptionsRanked": "{'53Z': 0, '53Y': 0, 'F53': 0, '54C': 0, '47L': 1, '44I': 2}",
+    "market": "PCNA",
+    "vehicleCode": "Y1BFH1"
+  },
+  {
+    "vehicleName": "718 Boxster",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'395': 0, '396': 1, '398': 2, '397': 3, '433': 4, '427': 5, 'XRD': 6, '439': 7}",
+    "market": "PD",
+    "vehicleCode": "982320"
+  },
+  {
+    "vehicleName": "718 Boxster GTS 4.0",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P06': 1, 'P07': 2, 'P11': 3}",
+    "wheelOptionsRanked": "{'393': 0, 'XRD': 1, '439': 2}",
+    "market": "PD",
+    "vehicleCode": "982360"
+  },
+  {
+    "vehicleName": "718 Boxster S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'397': 0, '398': 1, '433': 2, '427': 3, 'XRD': 4, '439': 5}",
+    "market": "PD",
+    "vehicleCode": "982330"
+  },
+  {
+    "vehicleName": "718 Boxster T",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'433': 0, 'XRD': 1}",
+    "market": "PD",
+    "vehicleCode": "982350"
+  },
+  {
+    "vehicleName": "718 Cayman",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'396': 0, '395': 1, '398': 2, '397': 3, '433': 4, '427': 5, 'XRD': 6, '439': 7}",
+    "market": "PD",
+    "vehicleCode": "982120"
+  },
+  {
+    "vehicleName": "718 Cayman GT4",
+    "audioOptionsRanked": "{'9VL': 0}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'424': 0}",
+    "market": "PD",
+    "vehicleCode": "982810"
+  },
+  {
+    "vehicleName": "718 Cayman GTS 4.0",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P06': 1, 'P07': 2, 'P11': 3}",
+    "wheelOptionsRanked": "{'393': 0, 'XRD': 1, '439': 2}",
+    "market": "PD",
+    "vehicleCode": "982160"
+  },
+  {
+    "vehicleName": "718 Cayman S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'398': 0, '397': 1, '433': 2, '427': 3, 'XRD': 4, '439': 5}",
+    "market": "PD",
+    "vehicleCode": "982130"
+  },
+  {
+    "vehicleName": "718 Cayman T",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'433': 0, 'XRD': 1}",
+    "market": "PD",
+    "vehicleCode": "982150"
+  },
+  {
+    "vehicleName": "718 Spyder",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'424': 0}",
+    "market": "PD",
+    "vehicleCode": "982510"
+  },
+  {
+    "vehicleName": "911 Carrera",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PD",
+    "vehicleCode": "992110"
+  },
+  {
+    "vehicleName": "911 Carrera 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PD",
+    "vehicleCode": "992410"
+  },
+  {
+    "vehicleName": "911 Carrera 4 Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PD",
+    "vehicleCode": "992610"
+  },
+  {
+    "vehicleName": "911 Carrera 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PD",
+    "vehicleCode": "992420"
+  },
+  {
+    "vehicleName": "911 Carrera 4S Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PD",
+    "vehicleCode": "992620"
+  },
+  {
+    "vehicleName": "911 Carrera Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PD",
+    "vehicleCode": "992310"
+  },
+  {
+    "vehicleName": "911 Carrera S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PD",
+    "vehicleCode": "992120"
+  },
+  {
+    "vehicleName": "911 Carrera S Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PD",
+    "vehicleCode": "992320"
+  },
+  {
+    "vehicleName": "911 Targa 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PD",
+    "vehicleCode": "992510"
+  },
+  {
+    "vehicleName": "911 Targa 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PD",
+    "vehicleCode": "992520"
+  },
+  {
+    "vehicleName": "911 Targa 4S Heritage Design Edition",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q4Q': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'46M': 0}",
+    "market": "PD",
+    "vehicleCode": "992560"
+  },
+  {
+    "vehicleName": "911 Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46N': 0, '46P': 1, '40U': 2, '46U': 3}",
+    "market": "PD",
+    "vehicleCode": "992430"
+  },
+  {
+    "vehicleName": "911 Turbo Cabriolet",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46N': 0, '46P': 1, '40U': 2, '46U': 3}",
+    "market": "PD",
+    "vehicleCode": "992630"
+  },
+  {
+    "vehicleName": "911 Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'40U': 0, '46N': 1, '46P': 2, '46U': 3}",
+    "market": "PD",
+    "vehicleCode": "992450"
+  },
+  {
+    "vehicleName": "911 Turbo S Cabriolet",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'40U': 0, '46N': 1, '46P': 2, '46U': 3}",
+    "market": "PD",
+    "vehicleCode": "992650"
+  },
+  {
+    "vehicleName": "Cayenne",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43B': 0, '43C': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PD",
+    "vehicleCode": "9YAAA1"
+  },
+  {
+    "vehicleName": "Cayenne Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43E': 0, '44J': 1, '43D': 2, '43F': 3, '43H': 4, '42K': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PD",
+    "vehicleCode": "9YBAA1"
+  },
+  {
+    "vehicleName": "Cayenne E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43B': 0, '43C': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48M': 7, '48X': 8, '46S': 9, '43I': 10, '43J': 11, '43Q': 12, '43R': 13, '48Y': 14, '49A': 15, '48Z': 16, '49B': 17}",
+    "market": "PD",
+    "vehicleCode": "9YAAE1"
+  },
+  {
+    "vehicleName": "Cayenne E-Hybrid Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43E': 0, '44J': 1, '43D': 2, '43F': 3, '43H': 4, '42K': 5, '48M': 6, '43Y': 7, '48X': 8, '46S': 9, '43I': 10, '43J': 11, '43Q': 12, '43R': 13, '48Y': 14, '49A': 15, '48Z': 16, '49B': 17}",
+    "market": "PD",
+    "vehicleCode": "9YBAE1"
+  },
+  {
+    "vehicleName": "Cayenne GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'48L': 0, '43F': 1, '42K': 2, '43H': 3, '48X': 4, '46S': 5, '43I': 6, '43J': 7, '43Q': 8, '43R': 9, '48Y': 10, '49A': 11, '48Z': 12, '49B': 13}",
+    "market": "PD",
+    "vehicleCode": "9YABG1"
+  },
+  {
+    "vehicleName": "Cayenne GTS Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'48L': 0, '44J': 1, '43F': 2, '42K': 3, '43H': 4, '43Y': 5, '48X': 6, '46S': 7, '43I': 8, '43J': 9, '43Q': 10, '43R': 11, '48Y': 12, '49A': 13, '48Z': 14, '49B': 15}",
+    "market": "PD",
+    "vehicleCode": "9YBBG1"
+  },
+  {
+    "vehicleName": "Cayenne S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43C': 0, '43B': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PD",
+    "vehicleCode": "9YABB1"
+  },
+  {
+    "vehicleName": "Cayenne S Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43D': 0, '44J': 1, '43E': 2, '43F': 3, '43H': 4, '42K': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PD",
+    "vehicleCode": "9YBBB1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43G': 0, '43F': 1, '43H': 2, '42K': 3, '48X': 4, '46S': 5, '43I': 6, '43J': 7, '43Q': 8, '43R': 9, '48Y': 10, '49A': 11, '48Z': 12, '49B': 13}",
+    "market": "PD",
+    "vehicleCode": "9YACF1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo Coupé",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43G': 0, '44J': 1, '43F': 2, '43H': 3, '42K': 4, '43Y': 5, '48X': 6, '46S': 7, '43I': 8, '43J': 9, '43Q': 10, '43R': 11, '48Y': 12, '49A': 13, '48Z': 14, '49B': 15}",
+    "market": "PD",
+    "vehicleCode": "9YBCF1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo S E-Hybrid",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'48M': 0, '43F': 1, '43G': 2, '42K': 3, '43H': 4, '48X': 5, '46S': 6, '43I': 7, '43J': 8, '43Q': 9, '43R': 10, '48Y': 11, '49A': 12, '48Z': 13, '49B': 14}",
+    "market": "PD",
+    "vehicleCode": "9YACH1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo S E-Hybrid Coupé",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'48M': 0, '44J': 1, '43F': 2, '43G': 3, '42K': 4, '43H': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PD",
+    "vehicleCode": "9YBCH1"
+  },
+  {
+    "vehicleName": "Macan",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'C7N': 0, 'C5F': 1, '41A': 2, '41M': 3, '48T': 4, '47N': 5, '49Y': 6, '53U': 7, '53S': 8, '47Q': 9, '47P': 10, '48U': 11, '48V': 12, '48W': 13}",
+    "market": "PD",
+    "vehicleCode": "95BAM1"
+  },
+  {
+    "vehicleName": "Macan GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q4P': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'41L': 0, '48T': 1, '49Y': 2, '53U': 3, '47N': 4, '53S': 5, '47Q': 6, '47P': 7, '48U': 8, '48V': 9, '48W': 10}",
+    "market": "PD",
+    "vehicleCode": "95BBL1"
+  },
+  {
+    "vehicleName": "Macan S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'C5F': 0, 'C7N': 1, '41A': 2, '41M': 3, '48T': 4, '47N': 5, '49Y': 6, '53U': 7, '53S': 8, '47Q': 9, '47P': 10, '48U': 11, '48V': 12, '48W': 13}",
+    "market": "PD",
+    "vehicleCode": "95BBH1"
+  },
+  {
+    "vehicleName": "Macan Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'41A': 0, '41M': 1, '47M': 2, '48T': 3, '49Y': 4, '53U': 5, '47N': 6, '53S': 7, '47Q': 8, '47P': 9, '48U': 10, '48V': 11, '48W': 12}",
+    "market": "PD",
+    "vehicleCode": "95BCI1"
+  },
+  {
+    "vehicleName": "Panamera",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PD",
+    "vehicleCode": "97AAI1"
+  },
+  {
+    "vehicleName": "Panamera 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PD",
+    "vehicleCode": "97ABI1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PD",
+    "vehicleCode": "97ABX1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PD",
+    "vehicleCode": "97BBX1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PD",
+    "vehicleCode": "97CBX1"
+  },
+  {
+    "vehicleName": "Panamera 4 Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PD",
+    "vehicleCode": "97BBI1"
+  },
+  {
+    "vehicleName": "Panamera 4 Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PD",
+    "vehicleCode": "97CBI1"
+  },
+  {
+    "vehicleName": "Panamera 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PD",
+    "vehicleCode": "97ADN1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PD",
+    "vehicleCode": "97ADZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PD",
+    "vehicleCode": "97BDZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PD",
+    "vehicleCode": "97CDZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PD",
+    "vehicleCode": "97BDN1"
+  },
+  {
+    "vehicleName": "Panamera 4S Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PD",
+    "vehicleCode": "97CDN1"
+  },
+  {
+    "vehicleName": "Panamera GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43X': 0, '44H': 1, '53K': 2, '44G': 3, '44D': 4, '44F': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '53L': 18, '54D': 19, '54F': 20, '54G': 21, '54H': 22, '53X': 23}",
+    "market": "PD",
+    "vehicleCode": "97ADS1"
+  },
+  {
+    "vehicleName": "Panamera GTS Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43X': 0, '44H': 1, '53K': 2, '44G': 3, '44D': 4, '44F': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '53L': 18, '54D': 19, '54F': 20, '54G': 21, '54H': 22, '53X': 23}",
+    "market": "PD",
+    "vehicleCode": "97CDS1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PD",
+    "vehicleCode": "97AFR1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53L': 0, '44F': 1, '44D': 2, '54E': 3, '43S': 4, '43T': 5, '43V': 6, '43U': 7, '54I': 8, '44E': 9, '44A': 10, '44C': 11, '43W': 12, '44B': 13, '47J': 14, '54D': 15, '54F': 16, '54G': 17, '54H': 18, '53X': 19}",
+    "market": "PD",
+    "vehicleCode": "97AFT1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'53L': 0, '44F': 1, '44D': 2, '54E': 3, '43S': 4, '43T': 5, '43V': 6, '43U': 7, '54I': 8, '44E': 9, '44A': 10, '44C': 11, '43W': 12, '44B': 13, '47J': 14, '54D': 15, '54F': 16, '54G': 17, '54H': 18, '53X': 19}",
+    "market": "PD",
+    "vehicleCode": "97BFT1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53L': 0, '44F': 1, '44D': 2, '54E': 3, '43S': 4, '43T': 5, '43V': 6, '43U': 7, '54I': 8, '44E': 9, '44A': 10, '44C': 11, '43W': 12, '44B': 13, '47J': 14, '54D': 15, '54F': 16, '54G': 17, '54H': 18, '53X': 19}",
+    "market": "PD",
+    "vehicleCode": "97CFT1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S Executive",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PD",
+    "vehicleCode": "97BFR1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S Sport Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PD",
+    "vehicleCode": "97CFR1"
+  },
+  {
+    "vehicleName": "Taycan",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47F': 0, '47G': 1, '47I': 2, '47H': 3, 'F44': 4, '47L': 5, '44I': 6}",
+    "market": "PD",
+    "vehicleCode": "Y1AAA1"
+  },
+  {
+    "vehicleName": "Taycan 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47G': 0, '47F': 1, '47I': 2, '47H': 3, 'F44': 4, '47L': 5, '44I': 6}",
+    "market": "PD",
+    "vehicleCode": "Y1ADB1"
+  },
+  {
+    "vehicleName": "Taycan Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'47I': 0, '47H': 1, 'F44': 2, '47L': 3, '44I': 4}",
+    "market": "PD",
+    "vehicleCode": "Y1AFC1"
+  },
+  {
+    "vehicleName": "Taycan Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'F44': 0, '47L': 1, '44I': 2}",
+    "market": "PD",
+    "vehicleCode": "Y1AFH1"
+  },
+  {
+    "vehicleName": "Taycan 4 Cross Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47F': 0, '47G': 1, '53Z': 2, 'F53': 2, '53Y': 3, '54C': 4, '47L': 5, '44I': 6}",
+    "market": "PD",
+    "vehicleCode": "Y1BBD1"
+  },
+  {
+    "vehicleName": "Taycan 4S Cross Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47G': 0, '47F': 1, '53Z': 2, 'F53': 2, '53Y': 3, '54C': 4, '47L': 5, '44I': 6}",
+    "market": "PD",
+    "vehicleCode": "Y1BDB1"
+  },
+  {
+    "vehicleName": "Taycan Turbo Cross Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53Y': 0, '53Z': 1, 'F53': 1, '54C': 2, '47L': 3, '44I': 4}",
+    "market": "PD",
+    "vehicleCode": "Y1BFC1"
+  },
+  {
+    "vehicleName": "Taycan Turbo S Cross Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 0}",
+    "wheelOptionsRanked": "{'53Z': 0, '53Y': 0, 'F53': 0, '54C': 0, '47L': 1, '44I': 2}",
+    "market": "PD",
+    "vehicleCode": "Y1BFH1"
+  },
+  {
+    "vehicleName": "718 Boxster",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P06': 0, 'P04': 1, 'P07': 2}",
+    "wheelOptionsRanked": "{'395': 0, '396': 1, '398': 2, '397': 3, '433': 4, '427': 5, 'XRD': 6, '439': 7}",
+    "market": "PGCN",
+    "vehicleCode": "982320"
+  },
+  {
+    "vehicleName": "718 Boxster GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P06': 0, 'P04': 1, 'P07': 2}",
+    "wheelOptionsRanked": "{'433': 0, '427': 1, 'XRD': 2, '439': 3}",
+    "market": "PGCN",
+    "vehicleCode": "982340"
+  },
+  {
+    "vehicleName": "718 Boxster S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P06': 0, 'P04': 1, 'P07': 2}",
+    "wheelOptionsRanked": "{'395': 0, '397': 1, '398': 2, '433': 3, '427': 4, 'XRD': 5, '439': 6}",
+    "market": "PGCN",
+    "vehicleCode": "982330"
+  },
+  {
+    "vehicleName": "718 Boxster T",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P06': 0, 'P07': 1}",
+    "wheelOptionsRanked": "{'433': 0, 'XRD': 1}",
+    "market": "PGCN",
+    "vehicleCode": "982350"
+  },
+  {
+    "vehicleName": "718 Cayman",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P06': 0, 'P04': 1, 'P07': 2}",
+    "wheelOptionsRanked": "{'396': 0, '395': 1, '398': 2, '397': 3, '433': 4, '427': 5, 'XRD': 6, '439': 7}",
+    "market": "PGCN",
+    "vehicleCode": "982120"
+  },
+  {
+    "vehicleName": "718 Cayman GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P06': 0, 'P04': 1, 'P07': 2}",
+    "wheelOptionsRanked": "{'433': 0, '427': 1, 'XRD': 2, '439': 3}",
+    "market": "PGCN",
+    "vehicleCode": "982140"
+  },
+  {
+    "vehicleName": "718 Cayman S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P06': 0, 'P04': 1, 'P07': 2}",
+    "wheelOptionsRanked": "{'396': 0, '398': 1, '397': 2, '433': 3, '427': 4, 'XRD': 5, '439': 6}",
+    "market": "PGCN",
+    "vehicleCode": "982130"
+  },
+  {
+    "vehicleName": "718 Cayman T",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P06': 0, 'P07': 1}",
+    "wheelOptionsRanked": "{'433': 0, 'XRD': 1}",
+    "market": "PGCN",
+    "vehicleCode": "982150"
+  },
+  {
+    "vehicleName": "911 Carrera",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PGCN",
+    "vehicleCode": "992110"
+  },
+  {
+    "vehicleName": "911 Carrera 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PGCN",
+    "vehicleCode": "992410"
+  },
+  {
+    "vehicleName": "911 Carrera 4 Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PGCN",
+    "vehicleCode": "992610"
+  },
+  {
+    "vehicleName": "911 Carrera 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46K': 0, '46M': 1, '46J': 2, '46L': 3}",
+    "market": "PGCN",
+    "vehicleCode": "992420"
+  },
+  {
+    "vehicleName": "911 Carrera 4S Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46K': 0, '46M': 1, '46J': 2, '46L': 3}",
+    "market": "PGCN",
+    "vehicleCode": "992620"
+  },
+  {
+    "vehicleName": "911 Carrera Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PGCN",
+    "vehicleCode": "992310"
+  },
+  {
+    "vehicleName": "911 Carrera S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46K': 0, '46M': 1, '46J': 2, '46L': 3}",
+    "market": "PGCN",
+    "vehicleCode": "992120"
+  },
+  {
+    "vehicleName": "911 Carrera S Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46K': 0, '46M': 1, '46J': 2, '46L': 3}",
+    "market": "PGCN",
+    "vehicleCode": "992320"
+  },
+  {
+    "vehicleName": "911 Targa 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PGCN",
+    "vehicleCode": "992510"
+  },
+  {
+    "vehicleName": "911 Targa 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46K': 0, '46M': 1, '46J': 2, '46L': 3}",
+    "market": "PGCN",
+    "vehicleCode": "992520"
+  },
+  {
+    "vehicleName": "911 Targa 4S Heritage Design Edition",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q4Q': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'46M': 0}",
+    "market": "PGCN",
+    "vehicleCode": "992560"
+  },
+  {
+    "vehicleName": "911 Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q4Q': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'40U': 0, '46N': 1, '46P': 2, '46U': 3}",
+    "market": "PGCN",
+    "vehicleCode": "992450"
+  },
+  {
+    "vehicleName": "911 Turbo S Cabriolet",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q4Q': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'40U': 0, '46N': 1, '46P': 2, '46U': 3}",
+    "market": "PGCN",
+    "vehicleCode": "992650"
+  },
+  {
+    "vehicleName": "Cayenne",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43B': 0, '43C': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PGCN",
+    "vehicleCode": "9YAAA1"
+  },
+  {
+    "vehicleName": "Cayenne Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43E': 0, '44J': 1, '43D': 2, '43F': 3, '43H': 4, '42K': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PGCN",
+    "vehicleCode": "9YBAA1"
+  },
+  {
+    "vehicleName": "Cayenne E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43B': 0, '43C': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48M': 7, '48X': 8, '46S': 9, '43I': 10, '43J': 11, '43Q': 12, '43R': 13, '48Y': 14, '49A': 15, '48Z': 16, '49B': 17}",
+    "market": "PGCN",
+    "vehicleCode": "9YAAE1"
+  },
+  {
+    "vehicleName": "Cayenne E-Hybrid Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43E': 0, '44J': 1, '43D': 2, '43F': 3, '43H': 4, '42K': 5, '48M': 6, '43Y': 7, '48X': 8, '46S': 9, '43I': 10, '43J': 11, '43Q': 12, '43R': 13, '48Y': 14, '49A': 15, '48Z': 16, '49B': 17}",
+    "market": "PGCN",
+    "vehicleCode": "9YBAE1"
+  },
+  {
+    "vehicleName": "Cayenne S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43C': 0, '43B': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PGCN",
+    "vehicleCode": "9YABB1"
+  },
+  {
+    "vehicleName": "Cayenne S Coupé",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43D': 0, '44J': 1, '43E': 2, '43F': 3, '43H': 4, '42K': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PGCN",
+    "vehicleCode": "9YBBB1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43G': 0, '43F': 1, '43H': 2, '42K': 3, '48X': 4, '46S': 5, '43I': 6, '43J': 7, '43Q': 8, '43R': 9, '48Y': 10, '49A': 11, '48Z': 12, '49B': 13}",
+    "market": "PGCN",
+    "vehicleCode": "9YACF1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo Coupé",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43G': 0, '44J': 1, '43F': 2, '43H': 3, '42K': 4, '43Y': 5, '48X': 6, '46S': 7, '43I': 8, '43J': 9, '43Q': 10, '43R': 11, '48Y': 12, '49A': 13, '48Z': 14, '49B': 15}",
+    "market": "PGCN",
+    "vehicleCode": "9YBCF1"
+  },
+  {
+    "vehicleName": "Macan",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'C7N': 0, 'C5F': 1, '41A': 2, '41M': 3, '48T': 4, '47N': 5, '49Y': 6, '53U': 7, '53S': 8, '47Q': 9, '47P': 10, '48U': 11, '48V': 12, '48W': 13}",
+    "market": "PGCN",
+    "vehicleCode": "95BAM1"
+  },
+  {
+    "vehicleName": "Macan GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q4P': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'41L': 0, '48T': 1, '49Y': 2, '53U': 3, '47N': 4, '53S': 5, '47Q': 6, '47P': 7, '48U': 8, '48V': 9, '48W': 10}",
+    "market": "PGCN",
+    "vehicleCode": "95BBL1"
+  },
+  {
+    "vehicleName": "Macan S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'C5F': 0, 'C7N': 1, '41A': 2, '41M': 3, '48T': 4, '47N': 5, '49Y': 6, '53U': 7, '53S': 8, '47Q': 9, '47P': 10, '48U': 11, '48V': 12, '48W': 13}",
+    "market": "PGCN",
+    "vehicleCode": "95BBH1"
+  },
+  {
+    "vehicleName": "Macan Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'41A': 0, '41M': 1, '47M': 2, '48T': 3, '49Y': 4, '53U': 5, '47N': 6, '53S': 7, '47Q': 8, '47P': 9, '48U': 10, '48V': 11, '48W': 12}",
+    "market": "PGCN",
+    "vehicleCode": "95BCI1"
+  },
+  {
+    "vehicleName": "Panamera",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PGCN",
+    "vehicleCode": "97AAI1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, '53K': 1, '44G': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PGCN",
+    "vehicleCode": "97ABX1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44D': 2, '44F': 3, '54E': 4, '43S': 5, '43T': 6, '43V': 7, '43U': 8, '54I': 9, '44E': 10, '44A': 11, '44C': 12, '43W': 13, '44B': 14, '47J': 15, '53L': 16, '54D': 17, '54F': 18, '54G': 19, '54H': 20, '53X': 21}",
+    "market": "PGCN",
+    "vehicleCode": "97BBX1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, '53K': 1, '44G': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PGCN",
+    "vehicleCode": "97CBX1"
+  },
+  {
+    "vehicleName": "Panamera 4 Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PGCN",
+    "vehicleCode": "97BBI1"
+  },
+  {
+    "vehicleName": "Panamera 4 Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PGCN",
+    "vehicleCode": "97CBI1"
+  },
+  {
+    "vehicleName": "Panamera 4S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PGCN",
+    "vehicleCode": "97ADN1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PGCN",
+    "vehicleCode": "97BDZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PGCN",
+    "vehicleCode": "97CDZ1"
+  },
+  {
+    "vehicleName": "Panamera 4S Executive",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PGCN",
+    "vehicleCode": "97BDN1"
+  },
+  {
+    "vehicleName": "Panamera 4S Sport Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'V58': 0, 'V57': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PGCN",
+    "vehicleCode": "97CDN1"
+  },
+  {
+    "vehicleName": "Panamera Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PGCN",
+    "vehicleCode": "97BAI1"
+  },
+  {
+    "vehicleName": "Panamera GTS",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43X': 0, '44H': 1, '53K': 2, '44G': 3, '44D': 4, '44F': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '53L': 18, '54D': 19, '54F': 20, '54G': 21, '54H': 22, '53X': 23}",
+    "market": "PGCN",
+    "vehicleCode": "97ADS1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PGCN",
+    "vehicleCode": "97AFR1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PGCN",
+    "vehicleCode": "97BFT1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S Executive",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PGCN",
+    "vehicleCode": "97BFR1"
+  },
+  {
+    "vehicleName": "Taycan",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'47F': 0, '47G': 1, '47I': 2, '47H': 3, 'F44': 4, '47L': 5, '44I': 6}",
+    "market": "PGCN",
+    "vehicleCode": "Y1AAA1"
+  },
+  {
+    "vehicleName": "Taycan 4S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'47G': 0, '47F': 1, '47I': 2, '47H': 3, 'F44': 4, '47L': 5, '44I': 6}",
+    "market": "PGCN",
+    "vehicleCode": "Y1ADB1"
+  },
+  {
+    "vehicleName": "Taycan Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'47I': 0, '47H': 1, 'F44': 2, '47L': 3, '44I': 4}",
+    "market": "PGCN",
+    "vehicleCode": "Y1AFC1"
+  },
+  {
+    "vehicleName": "Taycan Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'F44': 0, '47L': 1, '44I': 2}",
+    "market": "PGCN",
+    "vehicleCode": "Y1AFH1"
+  },
+  {
+    "vehicleName": "Taycan 4 Cross Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'47F': 0, '47G': 1, '53Z': 2, 'F53': 2, '53Y': 3, '54C': 4, '47L': 5, '44I': 6}",
+    "market": "PGCN",
+    "vehicleCode": "Y1BBD1"
+  },
+  {
+    "vehicleName": "Taycan 4S Cross Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'47G': 0, '47F': 1, '53Z': 2, 'F53': 2, '53Y': 3, '54C': 4, '47L': 5, '44I': 6}",
+    "market": "PGCN",
+    "vehicleCode": "Y1BDB1"
+  },
+  {
+    "vehicleName": "Taycan Turbo Cross Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 0}",
+    "wheelOptionsRanked": "{'53Y': 0, '53Z': 1, 'F53': 1, '54C': 2, '47L': 3, '44I': 4}",
+    "market": "PGCN",
+    "vehicleCode": "Y1BFC1"
+  },
+  {
+    "vehicleName": "Taycan Turbo S Cross Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 0}",
+    "wheelOptionsRanked": "{'53Z': 0, '53Y': 0, 'F53': 0, '54C': 0, '47L': 1, '44I': 2}",
+    "market": "PGCN",
+    "vehicleCode": "Y1BFH1"
+  },
+  {
+    "vehicleName": "718 Boxster",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'395': 0, '396': 1, '398': 2, '397': 3, '433': 4, '427': 5, 'XRD': 6, '439': 7}",
+    "market": "PTW",
+    "vehicleCode": "982320"
+  },
+  {
+    "vehicleName": "718 Boxster GTS 4.0",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P06': 1, 'P07': 2, 'P11': 3}",
+    "wheelOptionsRanked": "{'393': 0, 'XRD': 1, '439': 2}",
+    "market": "PTW",
+    "vehicleCode": "982360"
+  },
+  {
+    "vehicleName": "718 Boxster S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'397': 0, '398': 1, '433': 2, '427': 3, 'XRD': 4, '439': 5}",
+    "market": "PTW",
+    "vehicleCode": "982330"
+  },
+  {
+    "vehicleName": "718 Cayman",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'396': 0, '395': 1, '398': 2, '397': 3, '433': 4, '427': 5, 'XRD': 6, '439': 7}",
+    "market": "PTW",
+    "vehicleCode": "982120"
+  },
+  {
+    "vehicleName": "718 Cayman GT4",
+    "audioOptionsRanked": "{'9VL': 0}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'424': 0}",
+    "market": "PTW",
+    "vehicleCode": "982810"
+  },
+  {
+    "vehicleName": "718 Cayman GTS 4.0",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P06': 1, 'P07': 2, 'P11': 3}",
+    "wheelOptionsRanked": "{'393': 0, 'XRD': 1, '439': 2}",
+    "market": "PTW",
+    "vehicleCode": "982160"
+  },
+  {
+    "vehicleName": "718 Cayman S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P08': 0, 'P04': 1, 'P06': 2, 'P07': 3}",
+    "wheelOptionsRanked": "{'398': 0, '397': 1, '433': 2, '427': 3, 'XRD': 4, '439': 5}",
+    "market": "PTW",
+    "vehicleCode": "982130"
+  },
+  {
+    "vehicleName": "718 Spyder",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'P04': 0, 'P07': 1, 'P11': 2}",
+    "wheelOptionsRanked": "{'424': 0}",
+    "market": "PTW",
+    "vehicleCode": "982510"
+  },
+  {
+    "vehicleName": "911 Carrera",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PTW",
+    "vehicleCode": "992110"
+  },
+  {
+    "vehicleName": "911 Carrera 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PTW",
+    "vehicleCode": "992410"
+  },
+  {
+    "vehicleName": "911 Carrera 4 Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PTW",
+    "vehicleCode": "992610"
+  },
+  {
+    "vehicleName": "911 Carrera 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PTW",
+    "vehicleCode": "992420"
+  },
+  {
+    "vehicleName": "911 Carrera 4S Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PTW",
+    "vehicleCode": "992620"
+  },
+  {
+    "vehicleName": "911 Carrera Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46H': 0, '46I': 1, '46K': 2, '46J': 3, '46M': 4, '46L': 5}",
+    "market": "PTW",
+    "vehicleCode": "992310"
+  },
+  {
+    "vehicleName": "911 Carrera S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PTW",
+    "vehicleCode": "992120"
+  },
+  {
+    "vehicleName": "911 Carrera S Cabriolet",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PTW",
+    "vehicleCode": "992320"
+  },
+  {
+    "vehicleName": "911 Targa 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q5A': 0, 'Q4Q': 1, 'Q2J': 2, 'Q1J': 3}",
+    "wheelOptionsRanked": "{'46I': 0, '46K': 1, '46J': 2, '46M': 3, '46L': 4}",
+    "market": "PTW",
+    "vehicleCode": "992520"
+  },
+  {
+    "vehicleName": "911 Targa 4S Heritage Design Edition",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q4Q': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'46M': 0}",
+    "market": "PTW",
+    "vehicleCode": "992560"
+  },
+  {
+    "vehicleName": "911 Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46N': 0, '46P': 1, '40U': 2, '46U': 3}",
+    "market": "PTW",
+    "vehicleCode": "992430"
+  },
+  {
+    "vehicleName": "911 Turbo Cabriolet",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'46N': 0, '46P': 1, '40U': 2, '46U': 3}",
+    "market": "PTW",
+    "vehicleCode": "992630"
+  },
+  {
+    "vehicleName": "911 Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'40U': 0, '46N': 1, '46P': 2, '46U': 3}",
+    "market": "PTW",
+    "vehicleCode": "992450"
+  },
+  {
+    "vehicleName": "911 Turbo S Cabriolet",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q4Q': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'40U': 0, '46N': 1, '46P': 2, '46U': 3}",
+    "market": "PTW",
+    "vehicleCode": "992650"
+  },
+  {
+    "vehicleName": "Cayenne",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43B': 0, '43C': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PTW",
+    "vehicleCode": "9YAAA1"
+  },
+  {
+    "vehicleName": "Cayenne Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43E': 0, '44J': 1, '43D': 2, '43F': 3, '43H': 4, '42K': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PTW",
+    "vehicleCode": "9YBAA1"
+  },
+  {
+    "vehicleName": "Cayenne E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43B': 0, '43C': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48M': 7, '48X': 8, '46S': 9, '43I': 10, '43J': 11, '43Q': 12, '43R': 13, '48Y': 14, '49A': 15, '48Z': 16, '49B': 17}",
+    "market": "PTW",
+    "vehicleCode": "9YAAE1"
+  },
+  {
+    "vehicleName": "Cayenne E-Hybrid Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43E': 0, '44J': 1, '43D': 2, '43F': 3, '43H': 4, '42K': 5, '48M': 6, '43Y': 7, '48X': 8, '46S': 9, '43I': 10, '43J': 11, '43Q': 12, '43R': 13, '48Y': 14, '49A': 15, '48Z': 16, '49B': 17}",
+    "market": "PTW",
+    "vehicleCode": "9YBAE1"
+  },
+  {
+    "vehicleName": "Cayenne GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'48L': 0, '43F': 1, '42K': 2, '43H': 3, '48X': 4, '46S': 5, '43I': 6, '43J': 7, '43Q': 8, '43R': 9, '48Y': 10, '49A': 11, '48Z': 12, '49B': 13}",
+    "market": "PTW",
+    "vehicleCode": "9YABG1"
+  },
+  {
+    "vehicleName": "Cayenne GTS Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'48L': 0, '44J': 1, '43F': 2, '42K': 3, '43H': 4, '43Y': 5, '48X': 6, '46S': 7, '43I': 8, '43J': 9, '43Q': 10, '43R': 11, '48Y': 12, '49A': 13, '48Z': 14, '49B': 15}",
+    "market": "PTW",
+    "vehicleCode": "9YBBG1"
+  },
+  {
+    "vehicleName": "Cayenne S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1A': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43C': 0, '43B': 1, '43E': 2, '43D': 3, '43F': 4, '43H': 5, '42K': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PTW",
+    "vehicleCode": "9YABB1"
+  },
+  {
+    "vehicleName": "Cayenne S Coupé",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1D': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'43D': 0, '44J': 1, '43E': 2, '43F': 3, '43H': 4, '42K': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PTW",
+    "vehicleCode": "9YBBB1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43G': 0, '43F': 1, '43H': 2, '42K': 3, '48X': 4, '46S': 5, '43I': 6, '43J': 7, '43Q': 8, '43R': 9, '48Y': 10, '49A': 11, '48Z': 12, '49B': 13}",
+    "market": "PTW",
+    "vehicleCode": "9YACF1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo Coupé",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43G': 0, '44J': 1, '43F': 2, '43H': 3, '42K': 4, '43Y': 5, '48X': 6, '46S': 7, '43I': 8, '43J': 9, '43Q': 10, '43R': 11, '48Y': 12, '49A': 13, '48Z': 14, '49B': 15}",
+    "market": "PTW",
+    "vehicleCode": "9YBCF1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo S E-Hybrid",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'48M': 0, '43F': 1, '43G': 2, '42K': 3, '43H': 4, '48X': 5, '46S': 6, '43I': 7, '43J': 8, '43Q': 9, '43R': 10, '48Y': 11, '49A': 12, '48Z': 13, '49B': 14}",
+    "market": "PTW",
+    "vehicleCode": "9YACH1"
+  },
+  {
+    "vehicleName": "Cayenne Turbo S E-Hybrid Coupé",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'48M': 0, '44J': 1, '43F': 2, '43G': 3, '42K': 4, '43H': 5, '43Y': 6, '48X': 7, '46S': 8, '43I': 9, '43J': 10, '43Q': 11, '43R': 12, '48Y': 13, '49A': 14, '48Z': 15, '49B': 16}",
+    "market": "PTW",
+    "vehicleCode": "9YBCH1"
+  },
+  {
+    "vehicleName": "Macan",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'C7N': 0, 'C5F': 1, '41A': 2, '41M': 3, '48T': 4, '47N': 5, '49Y': 6, '53U': 7, '53S': 8, '47Q': 9, '47P': 10, '48U': 11, '48V': 12, '48W': 13}",
+    "market": "PTW",
+    "vehicleCode": "95BAM1"
+  },
+  {
+    "vehicleName": "Macan GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q4P': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'41L': 0, '48T': 1, '49Y': 2, '53U': 3, '47N': 4, '53S': 5, '47Q': 6, '47P': 7, '48U': 8, '48V': 9, '48W': 10}",
+    "market": "PTW",
+    "vehicleCode": "95BBL1"
+  },
+  {
+    "vehicleName": "Macan S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'C5F': 0, 'C7N': 1, '41A': 2, '41M': 3, '48T': 4, '47N': 5, '49Y': 6, '53U': 7, '53S': 8, '47Q': 9, '47P': 10, '48U': 11, '48V': 12, '48W': 13}",
+    "market": "PTW",
+    "vehicleCode": "95BBH1"
+  },
+  {
+    "vehicleName": "Macan Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'41A': 0, '41M': 1, '47M': 2, '48T': 3, '49Y': 4, '53U': 5, '47N': 6, '53S': 7, '47Q': 8, '47P': 9, '48U': 10, '48V': 11, '48W': 12}",
+    "market": "PTW",
+    "vehicleCode": "95BCI1"
+  },
+  {
+    "vehicleName": "Panamera",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PTW",
+    "vehicleCode": "97AAI1"
+  },
+  {
+    "vehicleName": "Panamera 4",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PTW",
+    "vehicleCode": "97ABI1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PTW",
+    "vehicleCode": "97ABX1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PTW",
+    "vehicleCode": "97BBX1"
+  },
+  {
+    "vehicleName": "Panamera 4 E-Hybrid Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PTW",
+    "vehicleCode": "97CBX1"
+  },
+  {
+    "vehicleName": "Panamera 4 Executive",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PTW",
+    "vehicleCode": "97BBI1"
+  },
+  {
+    "vehicleName": "Panamera 4 Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'V57': 0, 'V58': 1, '53K': 2, '44G': 3, '44H': 4, '44D': 5, '44F': 6, '54E': 7, '43S': 8, '43T': 9, '43V': 10, '43U': 11, '54I': 12, '44E': 13, '44A': 14, '44C': 15, '43W': 16, '44B': 17, '47J': 18, '53L': 19, '54D': 20, '54F': 21, '54G': 22, '54H': 23, '53X': 24}",
+    "market": "PTW",
+    "vehicleCode": "97CBI1"
+  },
+  {
+    "vehicleName": "Panamera 4S E-Hybrid",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'44G': 0, '53K': 1, '44H': 2, '44D': 3, '44F': 4, '54E': 5, '43S': 6, '43T': 7, '43V': 8, '43U': 9, '54I': 10, '44E': 11, '44A': 12, '44C': 13, '43W': 14, '44B': 15, '47J': 16, '53L': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PTW",
+    "vehicleCode": "97ADZ1"
+  },
+  {
+    "vehicleName": "Panamera GTS",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43X': 0, '44H': 1, '53K': 2, '44G': 3, '44D': 4, '44F': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '53L': 18, '54D': 19, '54F': 20, '54G': 21, '54H': 22, '53X': 23}",
+    "market": "PTW",
+    "vehicleCode": "97ADS1"
+  },
+  {
+    "vehicleName": "Panamera GTS Sport Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'43X': 0, '44H': 1, '53K': 2, '44G': 3, '44D': 4, '44F': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '53L': 18, '54D': 19, '54F': 20, '54G': 21, '54H': 22, '53X': 23}",
+    "market": "PTW",
+    "vehicleCode": "97CDS1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PTW",
+    "vehicleCode": "97AFR1"
+  },
+  {
+    "vehicleName": "Panamera Turbo S E-Hybrid",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53K': 0, '44G': 1, '44H': 2, '53L': 3, '44F': 4, '44D': 5, '54E': 6, '43S': 7, '43T': 8, '43V': 9, '43U': 10, '54I': 11, '44E': 12, '44A': 13, '44C': 14, '43W': 15, '44B': 16, '47J': 17, '54D': 18, '54F': 19, '54G': 20, '54H': 21, '53X': 22}",
+    "market": "PTW",
+    "vehicleCode": "97AFT1"
+  },
+  {
+    "vehicleName": "Taycan",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47F': 0, '47G': 1, '47I': 2, '47H': 3, 'F44': 4, '47L': 5, '44I': 6}",
+    "market": "PTW",
+    "vehicleCode": "Y1AAA1"
+  },
+  {
+    "vehicleName": "Taycan 4S",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47G': 0, '47F': 1, '47I': 2, '47H': 3, 'F44': 4, '47L': 5, '44I': 6}",
+    "market": "PTW",
+    "vehicleCode": "Y1ADB1"
+  },
+  {
+    "vehicleName": "Taycan Turbo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'47I': 0, '47H': 1, 'F44': 2, '47L': 3, '44I': 4}",
+    "market": "PTW",
+    "vehicleCode": "Y1AFC1"
+  },
+  {
+    "vehicleName": "Taycan Turbo S",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'F44': 0, '47L': 1, '44I': 2}",
+    "market": "PTW",
+    "vehicleCode": "Y1AFH1"
+  },
+  {
+    "vehicleName": "Taycan 4 Cross Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47F': 0, '47G': 1, '53Z': 2, 'F53': 2, '53Y': 3, '54C': 4, '47L': 5, '44I': 6}",
+    "market": "PTW",
+    "vehicleCode": "Y1BBD1"
+  },
+  {
+    "vehicleName": "Taycan 4S Cross Turismo",
+    "audioOptionsRanked": "{'9VL': 0, '9VJ': 1}",
+    "seatOptionsRanked": "{'Q1G': 0, 'Q2J': 1, 'Q1J': 2}",
+    "wheelOptionsRanked": "{'47G': 0, '47F': 1, '53Z': 2, 'F53': 2, '53Y': 3, '54C': 4, '47L': 5, '44I': 6}",
+    "market": "PTW",
+    "vehicleCode": "Y1BDB1"
+  },
+  {
+    "vehicleName": "Taycan Turbo Cross Turismo",
+    "audioOptionsRanked": "{'9VJ': 0}",
+    "seatOptionsRanked": "{'Q2J': 0, 'Q1J': 1}",
+    "wheelOptionsRanked": "{'53Y': 0, '53Z': 1, 'F53': 1, '54C': 2, '47L': 3, '44I': 4}",
+    "market": "PTW",
+    "vehicleCode": "Y1BFC1"
+  }
+]
