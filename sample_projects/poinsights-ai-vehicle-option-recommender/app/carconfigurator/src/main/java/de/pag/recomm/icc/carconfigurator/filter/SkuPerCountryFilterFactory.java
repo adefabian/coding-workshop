@@ -12,7 +12,7 @@ import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 /*
- * @author  ingmarjakob
+ * @author coding-workshop
  * @soundtrack soundtrack {If You Know You Know} - [Pusha T]
  */
 @Component

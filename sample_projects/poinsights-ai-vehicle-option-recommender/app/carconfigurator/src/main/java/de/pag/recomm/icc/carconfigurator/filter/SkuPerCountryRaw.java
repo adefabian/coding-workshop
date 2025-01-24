@@ -8,7 +8,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /*
- * @author  ingmarjakob
+ * @author coding-workshop
  * @soundtrack {Heartless} - [The Weeknd]
  */
 @AllArgsConstructor

@@ -24,7 +24,7 @@ import org.junit.Test;
 import org.mockito.Mock;
 
 /*
- * @author  ingmarjakob
+ * @author coding-workshop
  * @soundtrack soundtrack {Gasolina} - [Daddy Yankee]
  */
 

@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 import java.util.Map;
 
 /**
- * @author fabianade (fabian.ade@mhp.com) on 28.10.20.
+ * @author coding-workshop
  */
 @AllArgsConstructor
 @NoArgsConstructor

@@ -16,7 +16,7 @@ import java.util.Map.Entry;
 import java.util.function.Predicate;
 
 /**
- * @author fabianade (fabian.ade@mhp.com) on 28.10.20.
+ * @author coding-workshop
  */
 @Component
 @Scope("singleton")

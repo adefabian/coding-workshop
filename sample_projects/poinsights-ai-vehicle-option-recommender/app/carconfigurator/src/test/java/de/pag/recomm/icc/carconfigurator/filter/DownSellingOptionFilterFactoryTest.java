@@ -22,7 +22,7 @@ import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
 /**
- * @author fabianade (fabian.ade@mhp.com) on 28.10.20.
+ * @author coding-workshop
  */
 
 public class DownSellingOptionFilterFactoryTest {

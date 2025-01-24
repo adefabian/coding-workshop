@@ -8,7 +8,7 @@ import java.util.Set;
 import org.springframework.data.rest.webmvc.ResourceNotFoundException;
 
 /*
- * @author  ingmarjakob
+ * @author coding-workshop
  */
 public interface IFilterProvider {
 

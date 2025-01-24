@@ -5,7 +5,7 @@ import de.pag.recomm.icc.carconfigurator.service.Recommendation;
 import java.util.function.Predicate;
 
 /**
- * @author froth2
+ * @author coding-workshop
  * @since 22.08.2019
  */
 

@@ -19,7 +19,7 @@ import org.junit.Test;
 import org.mockito.Mock;
 
 /**
- * @author fabianade (fabian.ade@mhp.com) on 14.01.22.
+ * @author coding-workshop
  */
 
 public class PrFamilyFilterTest {

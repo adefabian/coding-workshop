@@ -16,7 +16,7 @@ import org.springframework.stereotype.Component;
  * In some countries porsche offers a country package which contains a set of options per default and is free of charge. This filter removes
  * recommended options, which are part of the country package if it is selected.
  *
- * @author fabianade (fabian.ade@mhp.com) on 20.10.20
+ * @author coding-workshop
  */
 @Component
 @Scope("singleton")

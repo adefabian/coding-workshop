@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 /**
- * @author fabianade (fabian.ade@mhp.com) on 14.01.22.
+ * @author coding-workshop
  */
 @Component
 @Scope("singleton")

@@ -7,7 +7,7 @@ import lombok.Data;
 
 
 /**
- * @author fabianade (fabian.ade@mhp.com) on 20.10.20.
+ * @author coding-workshop
  */
 @Data
 public class CountryOptionPackage implements OptionsFilter {

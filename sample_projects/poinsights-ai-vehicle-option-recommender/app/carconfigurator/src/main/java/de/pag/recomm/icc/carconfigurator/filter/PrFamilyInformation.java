@@ -12,7 +12,7 @@ import lombok.Data;
  * Includes all the pr family information needed to filter the recommendations. Nested structure each country (isoCode) has n vehicles each vehicle
  * has option and pr family information
  *
- * @author fabianade (fabian.ade@mhp.com) on 28.10.20.
+ * @author coding-workshop
  */
 @Data
 public class PrFamilyInformation {
